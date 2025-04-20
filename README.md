@@ -1,6 +1,6 @@
-# 🐾 PetPal AI
+# 🐾 PetPal.co
 
-**PetPal AI** is a virtual vet assistant that uses **GPT-4 Vision** and other AI tools to help pet owners monitor their pets' health, nutrition, and training—all from a mobile app.
+**PetPal.co** is a virtual vet assistant that uses **GPT-4 Vision** and other AI tools to help pet owners monitor their pets' health, nutrition, and training—all from a mobile app.
 
 ---
 
